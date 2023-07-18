@@ -25,3 +25,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 #### GitHub Repo
 https://github.com/KnightHawk1090/social_networking
 
+#### Testing Video
+https://drive.google.com/file/d/1aIF3r4Oz3t-ud28npfSGjS9aMkE_N8Ou/view
